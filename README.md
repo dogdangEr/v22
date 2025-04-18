@@ -1,4 +1,4 @@
-## Data Unblocker
+## V22 Unblocker/Data Unblocker/ Doge Unblocker 
 
 ### Key Features:
 <details>
@@ -6,13 +6,12 @@
 
 
 
-- Advanced Tab Cloaking
+- Basic Tab Cloaking
   
 - Advanced About:Blank Cloaking
   
 - Hiding site from browser history
   
-- Clickoff Cloaking
   
 - Automatic URL Cloaking
   
